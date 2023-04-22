@@ -1,2 +1,2 @@
 # Python_App_CAEC_UTFPR
-Python app
+This code is a program to demonstrate the use of a timer in Python with the Tkinter library and Pygame to play a sound at the end of the countdown. The program has a graphical interface created with the Tkinter library that includes a timer display and buttons to add loads, start, pause, continue and reset the countdown. It also checks if the total load is over 150 kg, if it is, the timer is stopped and a sound is played. The program is accompanied by comments explaining what each part of the code does.
